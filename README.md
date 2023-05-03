@@ -7,7 +7,7 @@ See: https://github.com/reason-healthcare/reason-framework
 
 Either run in docker with
 ```
-./bin/docker-run file:///Users/me/vadi-example.output
+./bin/docker-run file:///Users/me/vadi-example/output
 ```
 
 
